@@ -1,0 +1,14 @@
+url = "http://localhost:8080"
+title = "regexghost"
+
+[[feeds]]
+title = "regexghost's blog"
+path = "content/blog"
+filename = "blog.xml"
+length = 0
+
+[[feeds]]
+title = "devlog"
+path = "content/devlog"
+filename = "devlog.xml"
+length = 0

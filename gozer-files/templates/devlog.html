@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+	<title>{{ .Page.Title }}</title>
+
+{{template "top.html"}}
+
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<h2>Posts</h2>
+
+{{ range .Pages }}
+	{{ if HasPrefix .Filepath "content/devlog" }}
+		<h3>{{ .Title }}</h3>
+		{{ Content . }}
+	{{ end }}
+{{ end }}
+
+{{template "bottom.html"}}
+
