@@ -1,0 +1,9 @@
++++
+title = "Other Stuff"
++++
+
+Anything that doesn't fit neatly into another category will go here.
+
+### Media
+
+* [Recommended Media](/other/recommended-media)
