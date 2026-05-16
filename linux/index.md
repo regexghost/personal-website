@@ -6,9 +6,7 @@ I've been an avid Linux user for a few years now. This section of my website is 
 
 ## Dotfiles/Setups
 
-* [i3 Setup](/linux/i3)
-* [JWM Setup](/linux/jwm)
-* [Keyboard Shortcuts](/linux/universal-keyboard-shortcuts)
+* i3, JWM and KDE articles coming soon
 
 ## Under-Powered PC Project
 
