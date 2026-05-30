@@ -25,5 +25,5 @@ Stuff that doesn't fit anywhere else
 ## RSS
 
 I have 2 main RSS feeds,
-[my blog](https://www.regexghost.com/blog.rss) and
-[devlog](https://www.regexghost.com/devlog.rss)
+[my blog](https://www.regexghost.com/blog.xml) and
+[devlog](https://www.regexghost.com/devlog.xml)

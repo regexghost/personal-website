@@ -14,6 +14,12 @@ A full list of my projects, and forked repos, is listed below, as well as a link
 
 A set of CLI tools for organising my life. Written in Golang, after being re-written a few times
 
+### bug-fork/rewrite
+
+A re-write and improvement of the bug cli todo manager:  
+[GitHub](https://github.com/regexghost/bug-fork)  
+[Website](bug-fork)
+
 ## Forked Repos
 
 ### Gozer
