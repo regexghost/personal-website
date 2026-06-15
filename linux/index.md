@@ -8,6 +8,8 @@ I've been an avid Linux user for a few years now. This section of my website is 
 
 * i3, JWM and KDE articles coming soon
 
+[Universal Keyboard Shortcuts](universal-keyboard-shortcuts)
+
 ## Under-Powered PC Project
 
 I believe that computers don't need to be as powerful as they are for 99% of use cases. This section documents my attempts to make workable desktop setups out of various under-powered computers.

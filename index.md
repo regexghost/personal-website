@@ -1,4 +1,6 @@
-+++ title = "regexghost.com" +++
++++
+title = "regexghost.com"
++++
 
 ## Welcome to regexghost.com!
 
