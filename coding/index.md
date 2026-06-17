@@ -8,6 +8,8 @@ Various forks I have made will either be on GitHub or Codeberg
 
 A full list of my projects, and forked repos, is listed below, as well as a link to that projects article (WIP)
 
+A list of future project idea I have can be [found here](/coding/projects).
+
 ## My Projects
 
 ### Organisation Utils
