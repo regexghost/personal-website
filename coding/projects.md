@@ -16,7 +16,7 @@ Simple terminal program that just reads EPUB files and has nice output. Would ne
 
 ### Simple Viewer
 
-X11 program for viewing basic text and images. Basicalyl somewhere between a web-browser, pdf viewer and terminal pager. Would support images, and could read from standard input like a pager. Advantage over a terminal would be easier image support and non-monospace font options. Advantage over pdf viewer would be speed and flexibility.
+X11 program for viewing basic text and images. Basically somewhere between a web-browser, pdf viewer and terminal pager. Would support images, and could read from standard input like a pager (either using HTML or preferably markdown). Advantage over a terminal would be easier image support and non-monospace font options. Advantage over pdf viewer would be speed and flexibility.
 
 - Possible Language: Go, Zig, C
 
@@ -59,7 +59,7 @@ Been fascinated with [these symbols][ws] ever since Nat 5 Geography, would be go
 
 ### GoTube
 
-I previosuly had a project named GoTube, a TUI YouTube client with thumbnail support via ueberzug, and account integration via the innertube browser API. My plan is to split this project up into a backend, and a frontend video viewer, as the frontend video viewer could be used for more than just YouTube, and the backend tools could be useful by themselves. Maintaining this was a bit of a chore as YouTube are always changing their website JSON format. I'm egenerally anti-AI for programming but this could be a genuine usecase, more experementation is needed.
+I previously had a project named GoTube, a TUI YouTube client with thumbnail support via ueberzug, and account integration via the innertube browser API. My plan is to split this project up into a backend, and a frontend video viewer, as the frontend video viewer could be used for more than just YouTube, and the backend tools could be useful by themselves. Maintaining this was a bit of a chore as YouTube are always changing their website JSON format. I'm egenerally anti-AI for programming but this could be a genuine usecase, more experementation is needed.
 
 ### Markdown to Groff Converter
 
@@ -74,6 +74,12 @@ Another project I previously made but never finished. I do want to bring this ba
 I use Playnite on my desktop gaming PC to organise all my games, which works well but a more lightweight alternative, that works on Linux, would be nice. There is Lutris, but I don't need any of the feaetures it has. Doesn't even need to be a game *launcher*, just a way to visually organise the games I want to play.
 
 - Possible Language: Go, Zig, C#
+
+### CLI Address Book
+
+Previously I wrote a CLI address book, in the style of pass, I'd like to re-make it, especially since I still have all the entries from it and need a way to view them.
+
+- Possible Language: Go
 
 ### Games
 
