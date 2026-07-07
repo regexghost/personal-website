@@ -10,14 +10,14 @@ cp -r gozer-files/config.toml /tmp/mainwebsite/
 cp -r index.md about.md /tmp/mainwebsite/content/
 cp -r linux other blog devlog coding /tmp/mainwebsite/content/
 cp -r static /tmp/mainwebsite/public
-cp handle-escapes.sh /tmp/mainwebsite/
+cp -r scripts/ /tmp/mainwebsite/
 
 cd /tmp/mainwebsite
 gozer build
 
 while read -r html_file; do
 	echo "$html_file"
-	./handle-escapes.sh "$html_file" | tidy -q -indent > /tmp/tidy_out.html
+	./scripts/handle-escapes.sh "$html_file" | tidy -q -indent > /tmp/tidy_out.html
 	mv -f /tmp/tidy_out.html "$html_file"
 done <<EOF
 $(find /tmp/mainwebsite/build -type f | grep 'html$')
