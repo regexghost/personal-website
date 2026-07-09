@@ -17,7 +17,7 @@ gozer build
 
 while read -r html_file; do
 	echo "$html_file"
-	./scripts/handle-escapes.sh "$html_file" | tidy -q -indent > /tmp/tidy_out.html
+	./scripts/handle-escapes.sh "$html_file" | ./scripts/header-ids.sh | tidy -q -indent > /tmp/tidy_out.html
 	mv -f /tmp/tidy_out.html "$html_file"
 done <<EOF
 $(find /tmp/mainwebsite/build -type f | grep 'html$')

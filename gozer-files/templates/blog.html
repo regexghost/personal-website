@@ -8,8 +8,8 @@
 {{ .Content }}
     <h2>Posts</h2>
     <ul>
-    {{ range .Pages }}
-    {{ if HasPrefix .Filepath "content/blog/2" }}
+    {{ range .Posts }}
+    {{ if HasPrefix .Filepath "content/blog/" }}
       <li>{{ .DatePublished.Format "2006-01-02" }} - <a href="{{ .Permalink }}">{{ .Title }}</a></li>
 	{{ end }}
     {{ end }}

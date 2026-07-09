@@ -6,8 +6,8 @@
 {{template "top.html"}}
     <h1>{{ .Title }}</h1>
 {{ .Content }}
-  {{ range .Pages }}
-  {{ if HasPrefix .Filepath "content/devlog" }}
+  {{ range .Posts }}
+  {{ if HasPrefix .Filepath "content/devlog/" }}
     <h2>{{ .Title }}</h2>
     {{ Content . }}
   {{ end }}
