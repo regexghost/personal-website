@@ -1,6 +1,7 @@
 +++
 title = "Mini PC vs Raspberry Pi"
 datePublished = 2026-06-17
+template = "blog-page.html"
 +++
 
 For the last month I've been using a Raspberry Pi 3 B+ as my main computer. Overall I think it's gone quite well, for most things I do (i.e. anything done in a terminal), it works perfectly well. There have been some minor annoyances however, for example not being able to use a modern web browser. I'm in the process of replacing a lot of these tasks with terminal tools, but there are some things which do require the web (for example renewing GitHub keys, or commenting on GitHub issues in other people's repos).

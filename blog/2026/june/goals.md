@@ -1,6 +1,7 @@
 +++
 title = "Summer Goals"
 datePublished = 2026-06-21
+template = "blog-page.html"
 +++
 
 My goals for the summer (starting late June, ending mid September when I return to Uni)

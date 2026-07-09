@@ -1,6 +1,7 @@
 +++
 title = "JWM Pi 3B+ Setup - Fastfetch + Moved to sbase"
 datePublished = 2026-06-20
+template = "blog-page.html"
 +++
 
 ## Fastfetch Output Finally Complete
