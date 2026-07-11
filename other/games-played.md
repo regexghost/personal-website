@@ -6,7 +6,7 @@ Games I have played (or that I can remember playing, likely a lot missing especi
 
 ## Key
 
-* \c-cyan Yellow \c-off - Barely started
+* \c-cyan Cyan \c-off - Barely started
 * \c-blue Blue \c-off - Played a decent bit
 * \c-green Green \c-off - Nearly finished/fully finished
 
