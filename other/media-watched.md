@@ -16,6 +16,7 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## July 2026
 
+* \c-yellow Paul Plays Minecraft (1.4) \c-off (incomplete) - Paulsoaresjr - [playlist](https://www.youtube.com/playlist?list=PLEbtIY4p_ltr9s1Yg3fUHZgQB_5T9fRp6)
 * \c-yellow The Deadliest Weapon of the Ancient World \c-off - NORTH 02 - [link](https://www.youtube.com/watch?v=6sLozwbSlEs)
 * \c-blue Second Death (Chapter 1) \c-off - [Chapter 1](https://www.anewkindofmonster.com/post/second-death-chapter-1-free-read)
 * \c-cyan Firewatch \c-off (via MATN playthrough: [Jon's playlist](https://www.youtube.com/playlist?list=PLwH1xJhcXG0c--_wyRA_KUsE5AHcnclvp))
