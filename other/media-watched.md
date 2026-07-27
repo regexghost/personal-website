@@ -16,6 +16,11 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## July 2026
 
+* \c-magenta Last Friday Night \c-off - Katy Perry
+* \c-magenta HAWWAH & Just Like a Dream \c-off - dodree
+* \c-magenta Animal \c-off - KATSEYE
+* \c-yellow Beating Fallout 4 Without Items \c-off (incomplete) - MAGOOdog - [part 1](https://www.youtube.com/watch?v=MnTmt30DnuE), [part2](https://www.youtube.com/watch?v=0ygwaSb40kM), [part3](https://www.youtube.com/watch?v=Uij7GY20XyU)
+* \c-yellow The Fallout 4 Challenge You Can't START? (Keyboard Only) \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=0ygwaSb40kM)
 * \c-yellow Paul Plays Minecraft (1.4) \c-off (incomplete) - Paulsoaresjr - [playlist](https://www.youtube.com/playlist?list=PLEbtIY4p_ltr9s1Yg3fUHZgQB_5T9fRp6)
 * \c-yellow The Deadliest Weapon of the Ancient World \c-off - NORTH 02 - [link](https://www.youtube.com/watch?v=6sLozwbSlEs)
 * \c-blue Second Death (Chapter 1) \c-off - [Chapter 1](https://www.anewkindofmonster.com/post/second-death-chapter-1-free-read)
