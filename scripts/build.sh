@@ -17,7 +17,7 @@ cp -r static "${TMP_DIR}/public"
 cp -r scripts/ "${TMP_DIR}/"
 
 while read -r md_file; do
-	if grep -q "draft = true" "$md_file"; then
+	if grep -q "^draft = true$" "$md_file"; then
 		rm "$md_file"
 	fi
 done <<EOF
