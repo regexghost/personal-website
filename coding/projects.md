@@ -81,6 +81,12 @@ Previously I wrote a CLI address book, in the style of pass, I'd like to re-make
 
 - Possible Language: Go
 
+### Minimalist bat Clone
+
+`bat` is an alternative to `cat`, with syntax highlighting and line numbers, but it has a lot of features that I don't use and pulls around 200 rust dependancies.
+
+- Possible Language: Zig, Go, Rust
+
 ### Games
 
 Grouping all of my video game ideas into one section
