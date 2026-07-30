@@ -32,3 +32,11 @@ Gozer is a minimalist static site generator. I forked it to add a couple of new 
 As well as some minor tweaks
 
 [Fork on GitHub](https://github.com/regexghost/gozer)
+
+## Notable Patches
+
+### nano System Copy
+
+Patch for GNU nano, that adds a new binding, `systemcopy`, which copies the marked/highlighted text to the system clipboard via xclip
+
+[Patch](https://codeberg.org/regexghost/patches/src/branch/main/nano-copy-system.diff)
