@@ -11,3 +11,4 @@ Anything that doesn't fit neatly into another category will go here.
 * [Recommended Media](/other/recommended-media)
 * [Games I've Played](/other/games-played)
 * [Media I've Watched](/other/media-watched)
+* [Articles I've Read](/other/articles-read)

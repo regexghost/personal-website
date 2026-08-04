@@ -16,7 +16,9 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## August 2026
 
-* \c-yellow Can You Beat Fallout 4 as a TRUE Pacifist? \c-off (incomplete) - MAGOOdog - [video](https://www.youtube.com/watch?v=X-caSFS28Do)
+* \c-magenta Over \c-off - CHVRCHES
+* \c-yellow Can I BEAT Fallout 4 With only the Mysterious Stranger? \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=ftcPD__hQBE)
+* \c-yellow Can You Beat Fallout 4 as a TRUE Pacifist? \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=X-caSFS28Do)
 
 ## July 2026
 
