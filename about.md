@@ -30,6 +30,10 @@ This website is written in markdown, all of the content can be found on [my GitH
 fork](https://github.com/regexghost/gozer)). The website is hosted on a VPS from [Racknerd](https://www.racknerd.com/), using a domain from [Porkbun](https://porkbun.com/).
 I previously used GitHub pages, but I thought it would be fun to have my own domain, and run my own server. Maybe one day I will try self-hosting from my home internet...
 
+## Gopher/Minimal CSS Website
+
+I also have a gopher-space/minimal css website I use as a secondary blog (and for other random stuff) at [https://www.plaintextghost.com](https://www.plaintextghost.com)
+
 ## License
 
 Website content is copyright regexghost, source availble on GitHub. For any edits please open a GitHub issue or drop me an email. If you want to adapt something I've done on this website that's fine of course, as long as relevant credit is included.
