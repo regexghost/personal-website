@@ -87,6 +87,12 @@ Previously I wrote a CLI address book, in the style of pass, I'd like to re-make
 
 - Possible Language: Zig, Go, Rust
 
+### Command Colourizer
+
+A program that takes a command, and a set of colour definitions and placements, and outputs that command with the relevant text colourized. For example `lsblk`, it could colour different fstypes in different colours (e.g. red for `vfat`, yellow for `ext4`, blue for `ntfs` etc)
+
+- Possible Language: Zig, C, Rust
+
 ### Games
 
 Grouping all of my video game ideas into one section
