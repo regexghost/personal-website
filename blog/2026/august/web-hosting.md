@@ -41,3 +41,7 @@ Just a quick blog post to detail the web services and server tools I use.
 
 * I use [GitHub](https://github.com/regexghost) and [Codeberg](https://codeberg.org/regexghost) in addition to my self hosted git server/site. For interacting with those sites I use [gh cli](https://cli.github.com/) and [forgejo-cli](https://codeberg.org/forgejo-contrib/forgejo-cli) (most of the time, some stuff requires you to use a browser)
 * I also use [BlueSky](https://bsky.app/profile/regexghost.bsky.social) and [Twitter](https://x.com/regexghost). I tend to use BlueSky a lot more as I can use the [bsky](https://github.com/mattn/bsky) terminal tool
+
+## Setup Documents
+
+As mentioned above I have a markdown file with instructions to set up the email server, from fresh VPS all the way to working setup. I also have one that takes me from fresh VPS to gopher server and quark/stunnel http server. I might publish these online at some point in a git repo, but I'd need to 1) make sure there is no private keys/info in them, and 2) make sure they are 100% complete and correct. Maybe I'll make a site like landchad.net one day
