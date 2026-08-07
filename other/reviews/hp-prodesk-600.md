@@ -11,7 +11,7 @@ Picture of the PC, 15cm ruler for scale
 ## Specs
 
 CPU: Intel i3-4160T (2 cores, 4 threads, 3.10 GHz)  
-8GB RAM (2x 4GB DDR3 SODIMM sticks)  
+RAM: 8GB (2x 4GB DDR3 SODIMM sticks)  
 GPU: Intel HD Graphics 4400 (according to intel.com)  
 SSD: 512GB Patriot P210 SSD  
 PSU: Included standalone power brick
@@ -150,3 +150,7 @@ I haven't noticed any coil whine *except* when plugging my phone into one of the
 ## Maintenance
 
 Opening the PC up is easy enough, there's just one thumb-drive screw on the back. You can access the SSD and the RAM (by removing the SSD). Getting the CPU fan and heatsink off is easy enough too. I gave the PC a clean when I first got it, although I haven't replaced the thermal paste yet, so it's still using the old stuff. I dropped the CPU when I first opened it, but it doesn't seem to have been damaged.
+
+## End Note
+
+If you want me to test any other applications, or test a Windows install, or a different CPU etc, let me know and I can add on to the review! Hope this review is helpful, I would genuinely recommend this PC if you want a low power, main PC to use with Linux, especially for < £50. Would be good as a secondary PC to try Linux for a newbie too.
