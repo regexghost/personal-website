@@ -16,7 +16,12 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## August 2026
 
-* \c-yellow The Fallout 4 Challenge You Can't START? (Keyboard Only) \c-off (incomplete) - MAGOOdog - [video](https://www.youtube.com/watch?v=d51PoyV-fS0)
+* \c-red 2012 \c-off (the disaster film)
+* \c-red White House Down \c-off
+* \c-magenta Mutualism \c-off (album) - MRCH
+* \c-yellow Fallout 4, but Every Bobblehead Makes Me Faster \c-off - MagooHQ - [video](https://www.youtube.com/watch?v=j0v7s9NVFEo)
+* \c-magenta Candy Pink Magic Hole Flip Phone \c-off - KiiiKiii
+* \c-yellow The Fallout 4 Challenge You Can't START? (Keyboard Only) \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=d51PoyV-fS0)
 * \c-yellow Can You Beat Fallout 3 Without ANY Items? \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=3LqdaJyJZUQ)
 * \c-magenta Over \c-off - CHVRCHES
 * \c-yellow Can I BEAT Fallout 4 With only the Mysterious Stranger? \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=ftcPD__hQBE)
