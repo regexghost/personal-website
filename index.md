@@ -24,6 +24,8 @@ Feed showing progress on my various coding projects
 
 Stuff that doesn't fit anywhere else
 
+* [Reviews](/other/reviews)
+
 ## About
 
 See the [about page](/about) for more info about me

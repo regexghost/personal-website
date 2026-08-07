@@ -15,11 +15,11 @@ bug is a terminal todo/issue tracker program/script I found on the internet. I w
 * Coloured output
 * Sorting by priority
 * `fzf` integration
-* Non-permenant deletion
+* Non-permanent deletion
 
 ## Usage
 
-Set `$BUG_PROJECT` to a file which will contain all of your todo's
+Set `$BUG_PROJECT` to a file which will contain all of your todos
 
 ### Basic Commands
 

@@ -29,7 +29,7 @@ This project would just have basic functionality; reading in a file, outputting 
 
 ### Ultra-Minimal dmenu Alternative
 
-dmenu is suckless software and is faily lightweight (~1300 SLOC) compared to say Rofi (~25000 SLOC). I'd like to have go making an even more lightweight version, with only the most basic features.
+dmenu is suckless software and is fairly lightweight (~1300 SLOC) compared to say Rofi (~25000 SLOC). I'd like to have go making an even more lightweight version, with only the most basic features.
 
 - Possible Language: Zig (good C support to use XLib headers)
 
@@ -55,11 +55,11 @@ A TUI interface that pulls data from the Met Office and BBC Weather, to allow co
 
 Been fascinated with [these symbols][ws] ever since Nat 5 Geography, would be good to programatically generate them. Could be used as a weather widget on your computer, or even for educational purposes.
 
-[ws]: https://www.bbc.co.uk/bitesize/guides/zbp82hv/revision/4 "BBC Bitesie - Weather Circles"
+[ws]: https://www.bbc.co.uk/bitesize/guides/zbp82hv/revision/4 "BBC Bitesize - Weather Circles"
 
 ### GoTube
 
-I previously had a project named GoTube, a TUI YouTube client with thumbnail support via ueberzug, and account integration via the innertube browser API. My plan is to split this project up into a backend, and a frontend video viewer, as the frontend video viewer could be used for more than just YouTube, and the backend tools could be useful by themselves. Maintaining this was a bit of a chore as YouTube are always changing their website JSON format. I'm egenerally anti-AI for programming but this could be a genuine usecase, more experementation is needed.
+I previously had a project named GoTube, a TUI YouTube client with thumbnail support via ueberzug, and account integration via the innertube browser API. My plan is to split this project up into a backend, and a frontend video viewer, as the frontend video viewer could be used for more than just YouTube, and the backend tools could be useful by themselves. Maintaining this was a bit of a chore as YouTube are always changing their website JSON format. I'm generally anti-AI for programming but this could be a genuine use case, more experimentation is needed.
 
 ### Markdown to Groff Converter
 
@@ -67,11 +67,11 @@ A few of these exist on the internet but I can't find any that handle images. Ad
 
 ### DekuDeals API
 
-Another project I previously made but never finished. I do want to bring this back at some point, I lost my motivation to work on it becuase I stopped religiously buying Switch games, but it's still a neat idea.
+Another project I previously made but never finished. I do want to bring this back at some point, I lost my motivation to work on it because I stopped religiously buying Switch games, but it's still a neat idea.
 
 ### Minimalist Game Library Manager
 
-I use Playnite on my desktop gaming PC to organise all my games, which works well but a more lightweight alternative, that works on Linux, would be nice. There is Lutris, but I don't need any of the feaetures it has. Doesn't even need to be a game *launcher*, just a way to visually organise the games I want to play.
+I use Playnite on my desktop gaming PC to organise all my games, which works well but a more lightweight alternative, that works on Linux, would be nice. There is Lutris, but I don't need any of the features it has. Doesn't even need to be a game *launcher*, just a way to visually organise the games I want to play.
 
 - Possible Language: Go, Zig, C#
 
@@ -83,7 +83,7 @@ Previously I wrote a CLI address book, in the style of pass, I'd like to re-make
 
 ### Minimalist bat Clone
 
-`bat` is an alternative to `cat`, with syntax highlighting and line numbers, but it has a lot of features that I don't use and pulls around 200 rust dependancies.
+`bat` is an alternative to `cat`, with syntax highlighting and line numbers, but it has a lot of features that I don't use and pulls around 200 rust dependencies.
 
 - Possible Language: Zig, Go, Rust
 
@@ -115,7 +115,7 @@ Projects that can be done in an afternoon:
 * Simple cli file management tools (batch renaming, numbering etc)
 * A fun terminal program that simulates a junction with traffic lights
 * [asciiquarium][asq] rewrite in C or Zig
-* cli tool for word pronounciation
+* cli tool for word pronunciation
 * Simple RSS feed generator. Takes markdown files and outputs RSS feed
 
 [asq]: https://github.com/cmatsuoka/asciiquarium "asciiquarium - GitHub"
@@ -159,7 +159,7 @@ The XBox 360 was my mid-childhood console. Don't currently own one but I would l
 
 ### GaMeR CoNsOlE
 
-Taking a Ryzen mini PC or laptop, extracing the motherboard and mounting in an old game console shell (OG XBox, PS2 etc). Batocera or similar would be used to emulate any console up to the 6th gen
+Taking a Ryzen mini PC or laptop, extracting the motherboard and mounting in an old game console shell (OG XBox, PS2 etc). Batocera or similar would be used to emulate any console up to the 6th gen
 
 ### DIY Bike Computer
 

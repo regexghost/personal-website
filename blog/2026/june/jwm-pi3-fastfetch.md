@@ -12,5 +12,5 @@ The final piece of my setup is in place now, switching to oksh from bash, so my 
 
 ## Moved to suckless sbase
 
-Switched to [suckless sbase](https://core.suckless.org/sbase) from the GNU coreutils. Required a few changes to my setup. Removing `--color=auto` from grep aliases is a big one, unforuntately that's not an option in POSIX grep. I will try and find a workaround for this at some point...  
+Switched to [suckless sbase](https://core.suckless.org/sbase) from the GNU coreutils. Required a few changes to my setup. Removing `--color=auto` from grep aliases is a big one, unfortunately that's not an option in POSIX grep. I will try and find a workaround for this at some point...  
 A bunch of changes were necessary in shell scripts too, probably haven't found them all yet. Replaced `grep -A 5 -B 5` with an awk script in `metoffice.sh`

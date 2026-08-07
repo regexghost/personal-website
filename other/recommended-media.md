@@ -1,4 +1,4 @@
-# Recommanded Media
+# Recommended Media
 
 This is a simple list of media I like and recommend to other humans, covering a variety of different areas.
 
@@ -6,7 +6,7 @@ This is a simple list of media I like and recommend to other humans, covering a 
 
 * [SomeOrdinaryGamers (Mutahar)](https://www.youtube.com/results?search_query=some+ordinary+gamers+linux) - Mutahar was the person who first got me into Linux, so I feel somewhat indebted to him for that. I'd tried it before but never as a main OS. Linux Mint was what I started with.
 * [DistroTube](https://www.youtube.com/@DistroTube) - The YouTuber who convinced me to try tiling window managers/more commandline based tools
-* [Luke Smith](https://www.youtube.com/@LukeSmithxyz) - Kickstarted my intrest in very minimalist tools (st, dmenu etc). A bit of a controversial person but his Linux content is very informative in my opinion. Especially his vim tutorials
+* [Luke Smith](https://www.youtube.com/@LukeSmithxyz) - Kickstarted my interest in very minimalist tools (st, dmenu etc). A bit of a controversial person but his Linux content is very informative in my opinion. Especially his vim tutorials
 * [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins) - A more recent Linux-tuber, similar in content to Luke Smith and DistroTube
 
 ## Gaming
@@ -31,4 +31,4 @@ This is a simple list of media I like and recommend to other humans, covering a 
 
 ## Anti-Recommendations
 
-* The X-Files - Dissapointing overall story with a totally "meh" ending. Does not live up to it's potential. Glad I skim-watched it by only watching plot relevant episodes
+* The X-Files - Disappointing overall story with a totally "meh" ending. Does not live up to it's potential. Glad I skim-watched it by only watching plot relevant episodes

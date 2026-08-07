@@ -2,7 +2,7 @@
 title = "Media I've Watched"
 +++
 
-A running list of the media I've watched. Note some things might be ommited to avoid spamming the list, for example generic news podcasts, or random YouTube tech, news, video game streams etc. Also a TV show won't have each individual episode on the list. Some games won't actually be ones I've played, but ones I've watched someone else play, which will be noted in the entry.  
+A running list of the media I've watched. Note some things might be omitted to avoid spamming the list, for example generic news podcasts, or random YouTube tech, news, video game streams etc. Also a TV show won't have each individual episode on the list. Some games won't actually be ones I've played, but ones I've watched someone else play, which will be noted in the entry.  
 Links provided only when something lives on the internet (so not for TV shows, books etc)
 
 ## Key

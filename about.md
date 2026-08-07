@@ -2,7 +2,7 @@
 
 ## Me
 
-I'm a 24 year old computer science student from Scotland. Currently studying at the University of St Andrews on a Masters program, hoping to graduate at the end of 2026.  My intrests include:  
+I'm a 24 year old computer science student from Scotland. Currently studying at the University of St Andrews on a Masters program, hoping to graduate at the end of 2026.  My interests include:  
 - Coding
 - Linux
 - Gaming
@@ -36,5 +36,5 @@ I also have a gopher-space/minimal css website I use as a secondary blog (and fo
 
 ## License
 
-Website content is copyright regexghost, source availble on GitHub. For any edits please open a GitHub issue or drop me an email. If you want to adapt something I've done on this website that's fine of course, as long as relevant credit is included.
+Website content is copyright regexghost, source available on GitHub. For any edits please open a GitHub issue or drop me an email. If you want to adapt something I've done on this website that's fine of course, as long as relevant credit is included.
 Most of my software projects are licensed under the GPL v3.0

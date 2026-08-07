@@ -61,4 +61,4 @@ My goals for the summer (starting late June, ending mid September when I return 
 	- Make fake game cases to represent my favourite games
 * Write in journal every day
 * Replace my phone with alternatives
-* Get ahead of next semseter, with Uni modules
+* Get ahead of next semester, with Uni modules

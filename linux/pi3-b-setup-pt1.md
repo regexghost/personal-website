@@ -20,12 +20,12 @@ My desktop currently has a dual boot setup, with Arch Linux (KDE) as my "daily d
 My idea is to treat the current desktop Linux install similarly, only using it for specific things (photo editing, javascript-heavy web browsing etc)  
 Everything else can be done on the Pi 3B+, meaning the desktop only needs to be turned on for half an hour a day at most, keeping it's heat output to a minimum.
 
-Now there are some problems with this plan. The first obvious one would be "how will I watch videos (YouTube, TV shows etc)". Currently I watch basically everything on my phone, becuase I like to move around while I watch stuff. So as long as I can *download* videos on the Pi 3B+ and transfer them to my phone, that is perfectly usable.  
+Now there are some problems with this plan. The first obvious one would be "how will I watch videos (YouTube, TV shows etc)". Currently I watch basically everything on my phone, because I like to move around while I watch stuff. So as long as I can *download* videos on the Pi 3B+ and transfer them to my phone, that is perfectly usable.  
 The second obvious problem is browsing modern websites. This is sometimes necessary, and for that I will have to use my desktop (for example buying something on Amazon, or logging into a VPS provider dashboard). However a lot of it can be replaced with CLI tools (checking weather, coding documentation, stackoverflow, YouTube browsing, Google Docs, email)
 
 ## Which OS To Use
 
-I've played around with a few different OS options for the Raspberry Pi in the past. The default on is of course [Raspbian](https://www.raspberrypi.com/software/operating-systems/) (although apparantly it's just called "Raspberry Pi OS" now). This works pretty well, as expected, but isn't the most lightweight. Another option is [DietPi](https://dietpi.com/), I tried to use this on a Pi (can't remember which model) in the past but had issues getting the internet to work properly. I'm sure it was just me being incompetent, it seems like a well maintained distro. The issue is it also is based on Debian, but they do claim is has a smaller footprint. I might try this in the future.  
+I've played around with a few different OS options for the Raspberry Pi in the past. The default on is of course [Raspbian](https://www.raspberrypi.com/software/operating-systems/) (although apparently it's just called "Raspberry Pi OS" now). This works pretty well, as expected, but isn't the most lightweight. Another option is [DietPi](https://dietpi.com/), I tried to use this on a Pi (can't remember which model) in the past but had issues getting the internet to work properly. I'm sure it was just me being incompetent, it seems like a well maintained distro. The issue is it also is based on Debian, but they do claim is has a smaller footprint. I might try this in the future.  
 A super-light option is [TinyCore](http://tinycorelinux.net/ports.html) which is *very* lightweight but as a consequence very hard to do anything on. I think for a Pi 3B+ this would be over (or I guess under) kill.  
 For now I will stick to the standard Raspbian. The 2 sensible options would be either Trixie or Bookworm. They both use the same kernel version, so I'm going to go with Bookworm just because I've used it before in the past.
 
@@ -50,7 +50,7 @@ There is a [known issue](https://github.com/raspberrypi/linux/issues/5780) with 
 
 ## Other Hardware
 
-I tested the Pi 3B+ with my Bluetooth keyboard and trackpad [this one](https://www.amazon.co.uk/Inateck-Bluetooth-Keyboard-Touchpad-Compatible/dp/B0DSZRV248?th=1) and it seemed to handle it fine, no noticeable lag or dropped key inputs. Note that I was using 5Ghz WiFi, as 2.4GHz WiFi on my Pi simply doesn't work properly.  
+I tested the Pi 3B+ with my Bluetooth keyboard and trackpad [this one](https://www.amazon.co.uk/Inateck-Bluetooth-Keyboard-Touchpad-Compatible/dp/B0DSZRV248?th=1) and it seemed to handle it fine, no noticeable lag or dropped key inputs. Note that I was using 5GHz WiFi, as 2.4GHz WiFi on my Pi simply doesn't work properly.  
 Going to be using a 21.5" 1080p monitor for this setup, instead of my usual 29" 1080p ultrawide, as the Pi 3B+ supports a maximum output of 1920x1080. Also it's the only monitor I have at University.
 
 ## Internet
