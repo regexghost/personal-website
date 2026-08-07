@@ -1,5 +1,6 @@
 +++
 title = "Every Game I've Played"
+description = "Every game (that I can remember) which I've ever played"
 +++
 
 Games I have played (or that I can remember playing, likely a lot missing especially that I played as a kid (e.g. XBox 360, DS, 3DS and browser games)

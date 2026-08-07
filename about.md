@@ -1,4 +1,7 @@
-# About
++++
+title = "About Me"
+description = "Who I am, contact info and other details"
++++
 
 ## Me
 

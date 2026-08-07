@@ -1,5 +1,6 @@
 +++
 title = "Media I've Watched"
+description = "A running list of media I've watched/read"
 +++
 
 A running list of the media I've watched. Note some things might be omitted to avoid spamming the list, for example generic news podcasts, or random YouTube tech, news, video game streams etc. Also a TV show won't have each individual episode on the list. Some games won't actually be ones I've played, but ones I've watched someone else play, which will be noted in the entry.  
