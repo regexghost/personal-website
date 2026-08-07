@@ -1,5 +1,6 @@
 +++
 title = "HP Prodesk 600 G1 DM Review"
+description = "My full review of the HP Prodesk 600 G1 DM U-SFF PC. Bought on eBay for £40"
 +++
 
 I bought this mini pc a while ago from eBay for about £40, and I've been using it as my main PC for the last month. Overall its been really good, especially the low power consumption which keeps the temperature down in the room.

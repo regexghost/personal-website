@@ -1,5 +1,6 @@
 +++
-title = "regexghost.com"
+title = "regexghost Personal Website"
+description = "Welcome to regexghosts website"
 +++
 
 ## Welcome to regexghost.com!
