@@ -17,6 +17,7 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## August 2026
 
+* \c-magenta WhyKiiiKiii \c-off (album) - KiiiKiii
 * \c-red 2012 \c-off (the disaster film)
 * \c-red White House Down \c-off
 * \c-magenta Mutualism \c-off (album) - MRCH

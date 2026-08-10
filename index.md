@@ -39,4 +39,4 @@ I have 2 main RSS feeds,
 
 ## plaintextghost.com
 
-Check out my secondary website [https://www.plaintextghost.com](https://www.plaintextghost.com)
+I also have a secondary website, [https://www.plaintextghost.com](https://www.plaintextghost.com). I use it as a secondary blog, and also for general ramblings/plans for projects.
