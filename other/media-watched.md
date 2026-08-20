@@ -17,8 +17,13 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## August 2026
 
+* \c-yellow Terrifying Discoveries in Racing Games \c-off - The Stash - [video link](https://www.youtube.com/watch?v=NJTnffYX0ho)
+* \c-magenta mosi mosi? (LEESOL Remix) \c-off - sasane
+* \c-magenta SQUEEZY \c-off - OURBIRTHDAY Debut
 * \c-yellow Can I Beat Fallout 4 Permadeath in One Sitting? (Survival) \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=cI_okFSOBcQ)
 * \c-magenta WhyKiiiKiii \c-off (album) - KiiiKiii
+* \c-red Olympus has Fallen \c-off (rewatch)
+* \c-red Angel has Fallen \c-off
 * \c-red 2012 \c-off (the disaster film)
 * \c-red White House Down \c-off
 * \c-magenta Mutualism \c-off (album) - MRCH
