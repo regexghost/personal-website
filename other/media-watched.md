@@ -17,6 +17,8 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## August 2026
 
+* \c-yellow Fallout 4 Survival, But My Health is Draining \c-off - MAGOOdog - [link](https://www.youtube.com/watch?v=ckqlkoCGPAA)
+* \c-magenta SUN KISS \c-off - TUIDE
 * \c-yellow Can You Beat Fallout 4 While Only Healing With Goulish \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=cJUc_jCWjms)
 * \c-yellow Terrifying Discoveries in Racing Games \c-off - The Stash - [video link](https://www.youtube.com/watch?v=NJTnffYX0ho)
 * \c-magenta mosi mosi? (LEESOL Remix) \c-off - sasane
