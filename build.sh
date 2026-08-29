@@ -16,6 +16,6 @@ case "$1" in
 		pushwebsite /tmp/personal-website/build/
 		;;
 	*)
-		echo "Usage: case [build|push]"
+		echo "Usage: case [build|push|full]"
 		;;
 esac

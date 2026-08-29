@@ -14,6 +14,7 @@ This is a simple list of media I like and recommend to other humans, covering a 
 * [NerdCubed](https://www.youtube.com/@NerdCubed) - The best gaming YouTuber, been posting for over a decade
 * [Scott The Woz](https://www.youtube.com/@NerdCubed) - Least crazy man in Ohio
 * [ilmango](https://www.youtube.com/@ilmango/videos) - The best in technical Minecraft, doesn't really post anymore
+* [MAGOOdog](https://www.youtube.com/@MAGOOdog) and [MagooHQ](https://www.youtube.com/@MagooHQ) - Great Fallout 4 challenge channel
 
 ## Other YouTubers
 

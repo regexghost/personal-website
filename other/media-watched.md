@@ -17,12 +17,15 @@ Links provided only when something lives on the internet (so not for TV shows, b
 
 ## August 2026
 
+* \c-yellow Minecraft Minimum Advancement Runs Are Ridiculous \c-off - SmallAnt - [video](https://www.youtube.com/watch?v=CPCKdlU5cg4)
+* \c-yellow Another Minecraft 404 Challenge \c-off - Banclam - [video](https://www.youtube.com/watch?v=EA8NE0uksO8)
+* \c-yellow Fallout 4 Survival Mode, But Every SPECIAL Stat Stars at 1 \c-off - Pete Complete - [first video](https://www.youtube.com/watch?v=eJsjTUE1Rkc)
 * \c-yellow Fallout 4 Survival, But My Health is Draining \c-off - MAGOOdog - [link](https://www.youtube.com/watch?v=ckqlkoCGPAA)
-* \c-magenta SUN KISS \c-off - TUIDE
+* \c-magenta TUNE & PLAY \c-off (album) - TUIDE debut
 * \c-yellow Can You Beat Fallout 4 While Only Healing With Goulish \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=cJUc_jCWjms)
 * \c-yellow Terrifying Discoveries in Racing Games \c-off - The Stash - [video link](https://www.youtube.com/watch?v=NJTnffYX0ho)
 * \c-magenta mosi mosi? (LEESOL Remix) \c-off - sasane
-* \c-magenta SQUEEZY \c-off - OURBIRTHDAY Debut
+* \c-magenta SQUEEZY \c-off - OURBIRTHDAY debut
 * \c-yellow Can I Beat Fallout 4 Permadeath in One Sitting? (Survival) \c-off - MAGOOdog - [video](https://www.youtube.com/watch?v=cI_okFSOBcQ)
 * \c-magenta WhyKiiiKiii \c-off (album) - KiiiKiii
 * \c-red Olympus has Fallen \c-off (rewatch)
