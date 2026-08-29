@@ -123,6 +123,7 @@ Projects that can be done in an afternoon:
 * [asciiquarium][asq] rewrite in C or Zig
 * cli tool for word pronunciation
 * Simple RSS feed generator. Takes markdown files and outputs RSS feed
+* Simple git commit viewer/counter (similar to commit graph on GitHub)
 
 [asq]: https://github.com/cmatsuoka/asciiquarium "asciiquarium - GitHub"
 
