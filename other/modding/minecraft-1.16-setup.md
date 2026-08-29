@@ -1,6 +1,6 @@
 +++
 title = "A Minecraft Setup for 1.16"
-description = "Minecraft Vanilla+ Mod Setup (1.16.5)
+description = "Minecraft Vanilla+ Mod Setup (1.16.5)"
 +++
 
 For years I've planned a grand Minecraft "forever world" but I always spend so much time planning it that I never actually play the game. This is a stripped down setup for 1.16 (because I never really played the nether update), not designed as a forever world setup, just a fun world to play around and chill in.
