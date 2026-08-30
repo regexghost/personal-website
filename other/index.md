@@ -15,5 +15,6 @@ Anything that doesn't fit neatly into another category will go here.
 
 ### Game Modding
 
-* [Fallout 4](modding/fallout-4-setup)
 * [Minecraft 1.16](modding/minecraft-1.16-setup)
+* [Fallout 4](modding/fallout-4-setup)
+* [X4 Foundations](modding/x4-setup)
