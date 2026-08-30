@@ -61,7 +61,7 @@ For years I've planned a grand Minecraft "forever world" but I always spend so m
 
 ## Datapacks
 
-### Vanilla Tweaks
+### Vanilla Tweaks (seperate datapacks)
 
 #### Main
 
@@ -81,7 +81,7 @@ For years I've planned a grand Minecraft "forever world" but I always spend so m
 * Simple 3D Chain: https://modrinth.com/resourcepack/simple-3d-chain/versions
 * Crops 3D: https://www.curseforge.com/minecraft/texture-packs/crops-3d
 
-### Vanilla Tweaks
+### Vanilla Tweaks (crafting, also a datapack)
 
 * Aesthetic: Different Stems
 * Aesthetic: Red Iron Golem Flowers

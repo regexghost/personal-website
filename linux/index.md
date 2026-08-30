@@ -8,6 +8,8 @@ I've been an avid Linux user for a few years now. This section of my website is 
 
 * i3, JWM and KDE articles coming soon
 
+[JWM Setup](jwm-setup)
+
 [Universal Keyboard Shortcuts](universal-keyboard-shortcuts)
 
 ## Under-Powered PC Project
