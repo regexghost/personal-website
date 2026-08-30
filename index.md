@@ -13,6 +13,8 @@ Various Linux configs, scripts, and general thoughts on computers
 
 Programming projects and contributions
 
+* [Contributions](/coding/contributions)
+
 ### [Blog](/blog)
 
 My personal blog
