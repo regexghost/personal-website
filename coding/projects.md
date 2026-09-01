@@ -93,6 +93,12 @@ A program that takes a command, and a set of colour definitions and placements, 
 
 - Possible Language: Zig, C, Rust
 
+### git but for Single Files
+
+Basically just `git`, but stripped down and only for a single file. There are a bunch of files I have that I'd like to keep the history for (rss feeds, bookmarks, etc) and git seems overkill for a single file
+
+- Possible Language: Zig, Go
+
 ### Games
 
 Grouping all of my video game ideas into one section

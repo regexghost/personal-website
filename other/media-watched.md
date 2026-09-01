@@ -15,8 +15,13 @@ Links provided only when something lives on the internet (so not for TV shows, b
 * \c-green Green \c-off - Podcast
 * \c-red Red \c-off - Movie
 
+## September 2026
+
 ## August 2026
 
+* \c-magenta Rollercoaster \c-off - woo!ah!
+* \c-yellow The Flash Game Hiding a Disturbing Secret \c-off - Cadwaldr - [video](https://www.youtube.com/watch?v=IHvjBggE_Tw)
+* \c-yellow An Obscure Russian Analog Horror Series (FINAL DATA) \c-off - Muldered - [video](https://www.youtube.com/watch?v=snO5kxmkifM)
 * \c-magenta can't go back \c-off - ODD YOUTH
 * \c-magenta DRIVE ME CRAZY \c-off - LUVSSI
 * \c-magenta In my hands \c-off - MEOVV

@@ -30,6 +30,13 @@ Set `$BUG_PROJECT` to a file which will contain all of your todos
 `bug edit` - Edit specific todo - uses `fzf`  
 `bug restore` - Restore deleted todo - uses `fzf`  
 
+### Input Syntax
+
+For priority, "URGENT", "High", "Medium", "Low" and "Anytime" will be highlighted and sorted  
+These can be added by specifying 1 through 5 (1 being urgent) when creating an issue
+
+For status, "NS" (not started) and "IP" (in progress) will be highlighted
+
 ## Links
 
 * [GitHub](https://github.com/regexghost/bug-fork)
